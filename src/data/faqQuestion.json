@@ -1,0 +1,21 @@
+[
+    {
+        "question" : "How does FinanceFast work?",
+        "answer" : "FinanceFast is a platform that allows you to transfer money to anywhere in the world with confidence and ease. Simply create an account, add your recipient's information, and make a transfer. Our platform handles the rest."
+    },
+
+    {
+        "question" : "How long does it take to transfer money?",
+        "answer" : "The time it takes to transfer money depends on the country you are sending money to. In most cases, transfers are completed within 24 hours."
+    },
+
+    {
+        "question" : "How much does it cost to transfer money?",
+        "answer" : "The cost of transferring money depends on the amount you are sending and the country you are sending money to. Our platform will provide you with a quote before you make a transfer."
+    },
+
+    {
+        "question" : "Is FinanceFast secure?",
+        "answer" : "Yes, FinanceFast is secure. We use the latest encryption technology to protect your personal and financial information. Our platform is also regulated by the relevant authorities to ensure that your money is safe."
+    }
+]

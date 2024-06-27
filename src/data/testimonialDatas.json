@@ -1,0 +1,31 @@
+[
+    {
+        "id" : 1,
+        "message" : "“I've been using FinanceFast for a few months now and it's completely transformed the way I send money to my family abroad. The platform is so easy to use and transfers are always fast and secure.”",
+        "imagePath" : "/testimonialsImage.svg",
+        "name" : "Carl Rowan",
+        "position" : "Aglets Inc.",
+        "bodyColor" : "bg-[#EDE6FD]",
+        "footerColor" : "bg-[#E5DBFB]"
+    },
+
+    {
+        "id" : 2,
+        "message" : "“I've been using FinanceFast for a few months now and it's completely transformed the way I send money to my family abroad. The platform is so easy to use and transfers are always fast and secure.”",
+        "imagePath" : "/testimonialsImage.svg",
+        "name" : "Christian Town",
+        "position" : "SubScribe Inc.",
+        "bodyColor" : "bg-[#F9E8FE]",
+        "footerColor" : "bg-[#F6DDFD]"
+    },
+
+    {
+        "id" : 3,
+        "message" : "“I've been using FinanceFast for a few months now and it's completely transformed the way I send money to my family abroad. The platform is so easy to use and transfers are always fast and secure.”",
+        "imagePath" : "/testimonialsImage.svg",
+        "name" : "Christian Town",
+        "position" : "SubScribe Inc.",
+        "bodyColor" : "bg-[#F9E8FE]",
+        "footerColor" : "bg-[#F6DDFD]"
+    }
+]

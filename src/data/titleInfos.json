@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "subTitle" : "CROSS-BORDER TRANSACTIONS",
+        "title" : "Say GoodBye To Interntional Payment Hassles",
+        "message": "Start your journey to hassle free Cross-Border Payments by downloading the FastFinance app from your iOS of Android store."
+    },
+
+    {
+        "subTitle" : "REAL-TIME EXCHANGE RATES",
+        "title" : "Effortlessly Convert Currencies",
+        "message": "Convert your currency from Pounds to Naira or Naira to Dollars. Convert Cureency Anytime, Anywhere with FastFinance's Seamless and Efficient Service."
+    },
+
+    {
+        "subTitle" : "EASILY RECEIVE & REQUEST",
+        "title" : "Experience Seamless Money Transfers",
+        "message": "Simplify Your Money Management with Receive & Request Payments"
+    },
+
+    {
+        "subTitle" : "TESTIMONIALS",
+        "title" : "What Our Customers are Saying",
+        "message" : ""
+    },
+
+    {
+        "subTitle" : "FAQ's",
+        "title" : "Got questions?",
+        "message" : "Get the answers to your questions about FastFinance."}
+]

@@ -1,0 +1,6 @@
+@font-face{
+    font-family: 'GRIFTER';
+    src: url('./grifterbold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
